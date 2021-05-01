@@ -1,6 +1,6 @@
 		Asyncronised Javascript and XML
 
-Asyncronised  --> Aapka jo calls hai woh background me chal rahi hai and aapki jo website hai dom ki rendering hai woh block nahi ho rahi hai.
+Asyncronised  --> Aapka jo calls hai woh background me chal rahi hai and aapki jo website hai dom ki rendering hai woh block nahi ho rahi hai.(Whatever your calls are they are running in background and Your website and dom rendering won't be bloacked)//EDIT BY CYBERDUDE
 
 Not a Programming Language
 Its the set of technologies
