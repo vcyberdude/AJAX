@@ -1,0 +1,15 @@
+		Asyncronised Javascript and XML
+
+Asyncronised  --> Aapka jo calls hai woh background me chal rahi hai and aapki jo website hai dom ki rendering hai woh block nahi ho rahi hai.
+
+Not a Programming Language
+Its the set of technologies
+
+AJAX helps in fetching data asynchronously without intefering with the existing page
+No Page reload/refresh
+Modern website use JSON or XML for data transfer
+           
+HOW IT WORKS?
+
+AJAX uses XMLHttpRequest object(also called as xhr object) to achieve this 
+DATA can be transfered in nay format and protocol (Not always http request) 
