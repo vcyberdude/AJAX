@@ -1,0 +1,12 @@
+    //summery:
+    /*
+    sabse pahel consoel log mara jab uss button pe click karta hai toh ek event listner trigger kar do jab bhi
+    koi click karega toh buttonClickHandler run ho jayie 
+    2) ek naya xhr object banaya is xhr ka open method call kiya mujeh get request marni hai scor.txt ko marni hai or mujhe non
+    blocking  marni hai ki iske aage ki chiz continue rahe background me yrh request chalti rahe isliyie true
+    xhr.progress means aagr progress me hai toh concole.log run ho jayeiga 
+    xhr.onreadystatechange jaise hi aapki state change hogi tab yeh call hoga
+    3) Onlaod menas request puri ho chuki hai menas xhr ke readystate 4 pe aa chuke ho 
+    ab tak humne request bhji nahi hai humne sirf boli hai 
+    4)toh sab bhjne ke liyie .send karna padta hai 
+    */
